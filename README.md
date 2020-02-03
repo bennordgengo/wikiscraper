@@ -1,0 +1,2 @@
+- Run `poetry shell`
+- Run `python3 wikiscraper > output/strings.txt`

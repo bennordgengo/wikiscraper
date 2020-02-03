@@ -1,0 +1,3 @@
+import wikiscraper
+
+wikiscraper.scrape()
